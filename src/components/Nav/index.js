@@ -1,6 +1,6 @@
 import React from 'react';
 import profileImage from "../../assets/profile/profile-pic.png";
-
+import Resume  from "../Resume";
 
 function Nav() {
 
@@ -24,7 +24,7 @@ function Nav() {
             <span>Projects</span>
           </li>
           <li>
-            <span>Resume</span>
+            <Resume />
           </li>
         </ul>
       </nav>
