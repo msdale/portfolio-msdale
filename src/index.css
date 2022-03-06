@@ -46,7 +46,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Roboto', sans-serif;*/
+  font-family: 'Poiret One', cursive;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
@@ -147,6 +148,7 @@ input:focus {
 }
 
 li {
+  padding: 20px;
   list-style: none;
 }
 
@@ -175,6 +177,10 @@ textarea {
 .flex-row {
   display: flex;
   flex-wrap: wrap;
+}
+
+.center-content {
+  justify-content: center;
 }
 
 .space-between {
@@ -292,4 +298,21 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+
+#remaining-text {
+  display: inline;
+}
+
+#my-name {
+  font-size: 2em;
+  width: 100%;
+}
+
+#my-profile {
+  object-fit: scale-down;
+  width: 120px;
+  height: 120px;
+  margin: 20px;
+
 }
