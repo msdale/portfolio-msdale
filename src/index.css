@@ -35,10 +35,14 @@ body {
   font-size: 18px;
   letter-spacing: .1em;
   background: var(--dark);
+  background-size: cover;
+  background-position: center center;
+  background-image: url("../src/assets/cover/cover-image.jpg");
   color: var(--light);
   font-family: 'Poiret One', cursive;
-
 }
+
+
 
 h1,
 h2,
@@ -314,5 +318,11 @@ a {
   width: 120px;
   height: 120px;
   margin: 20px;
+}
 
+#text-thought {
+  color: #39a6b2;
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 20px;
 }
