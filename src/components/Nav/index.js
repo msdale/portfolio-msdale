@@ -7,7 +7,7 @@ function Nav() {
   return (
     <header>
       <nav className="flex-row">
-        <h1>
+        <h1 className="flex-row vcenter">
           <img id="my-profile" src={profileImage} alt="profile" />
             Mark Dale
         </h1>
