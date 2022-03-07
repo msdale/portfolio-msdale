@@ -92,8 +92,28 @@ a {
   font-weight: bold;
 }
 
-a:hover {
-  text-decoration: underline;
+#navAbout:hover {
+  /*text-decoration: underline;*/
+  background: var(--light);
+  color: var(--dark);
+}
+
+#navResume:hover {
+  /*text-decoration: underline;*/
+  background: var(--light);
+  color: var(--dark);
+}
+
+#navContact:hover {
+  /*text-decoration: underline;*/
+  background: var(--light);
+  color: var(--dark);
+}
+
+#navProjects:hover {
+  /*text-decoration: underline;*/
+  background: var(--light);
+  color: var(--dark);
 }
 
 header {
@@ -103,6 +123,8 @@ header {
 header a {
   color: var(--light);
 }
+
+
 
 button {
   font-size: 1rem;

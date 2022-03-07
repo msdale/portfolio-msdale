@@ -15,7 +15,7 @@ function About() {
           and Resorts IT, I designed, implemented, and supported database applications focused on managing guest
           reservations and other linked guest data. The number of guests supported in the system grew from ~80 million
           to over 200 million guests during my tenure. A concise breakdown of that experience is provided in my resume
-          (<a style={{ color: "#fce138" }} href={pdf}>View Pdf</a>). My latest technical pursuit has been acquiring a
+          (<a style={{ color: "#fce138" }} href={pdf}>View Resume</a>). My latest technical pursuit has been acquiring a
           Full-Stack skill set so I can be more engaged in development effecting both sides of the browser.
           I'm hard-working, focused, and work well alone, yet I enjoy being part of, and contributing to a well
           functioning team (who doesn't?). Perhaps I can be a part of yours. Thanks for visiting my site, and I hope to

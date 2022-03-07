@@ -13,18 +13,19 @@ function Nav() {
         </h1>
         <ul className="flex-row center-content">
           <li className="mx-2">
-            <a href="#about">
+            <a id="navAbout" href="#about">
               About me
             </a>
           </li>
           <li>
-            <span>Contact</span>
+            <a id="navContact">Contact</a>
           </li>
           <li>
-            <span>Projects</span>
+            <a id="navProjects">Projects</a>
           </li>
           <li>
             <Resume />
+
           </li>
         </ul>
       </nav>
