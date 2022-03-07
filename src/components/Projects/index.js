@@ -53,6 +53,82 @@ function Projects(props) {
           </a>
         </div>
       </section>
+      <section>
+        <p>&nbsp;{currentProject.type}&nbsp;
+          <a href={currentProject.gitRepo}>
+            <img
+              src={currentProject.gitLogo}
+              alt="git logo"
+            />
+          </a>
+        </p>
+        <div>
+          <a href={currentProject.appLink}>
+            <img
+              src={currentProject.image}
+              alt={currentProject.accessibility}
+              className="img-thumbnail mx-1"
+            />
+          </a>
+        </div>
+      </section>
+      <section>
+        <p>&nbsp;{currentProject.type}&nbsp;
+          <a href={currentProject.gitRepo}>
+            <img
+              src={currentProject.gitLogo}
+              alt="git logo"
+            />
+          </a>
+        </p>
+        <div>
+          <a href={currentProject.appLink}>
+            <img
+              src={currentProject.image}
+              alt={currentProject.accessibility}
+              className="img-thumbnail mx-1"
+            />
+          </a>
+        </div>
+      </section>
+      <section>
+        <p>&nbsp;{currentProject.type}&nbsp;
+          <a href={currentProject.gitRepo}>
+            <img
+              src={currentProject.gitLogo}
+              alt="git logo"
+            />
+          </a>
+        </p>
+        <div>
+          <a href={currentProject.appLink}>
+            <img
+              src={currentProject.image}
+              alt={currentProject.accessibility}
+              className="img-thumbnail mx-1"
+            />
+          </a>
+        </div>
+      </section>
+      <section>
+        <p>&nbsp;{currentProject.type}&nbsp;
+          <a href={currentProject.gitRepo}>
+            <img
+              src={currentProject.gitLogo}
+              alt="git logo"
+            />
+          </a>
+        </p>
+        <div>
+          <a href={currentProject.appLink}>
+            <img
+              src={currentProject.image}
+              alt={currentProject.accessibility}
+              className="img-thumbnail mx-1"
+            />
+          </a>
+        </div>
+      </section>
     </div>
   );
 }
