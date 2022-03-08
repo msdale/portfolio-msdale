@@ -300,7 +300,19 @@ textarea {
 	margin-bottom: 25px;
 }
 
-button {
+ button {
+	background: var(--primary);
+	border: 0;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 30px;
+	padding: 10px 15px;	
+}
+
+#navResume {
 	background: var(--primary);
 	border: 0;
 	border-radius: 5px;

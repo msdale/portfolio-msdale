@@ -2,7 +2,8 @@ import React from 'react';
 //import coverImage from "../../assets/cover/cover-image.jpg";
 import pdf from "../../assets/documents/markdale_2021.pdf";
 
-function About() {
+function About(props) {
+  
   return (
     <section className="my-5">
       <p id="text-thought">Let us run with endurance the race set before us...</p>
