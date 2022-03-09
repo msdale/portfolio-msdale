@@ -13,7 +13,7 @@ function About(props) {
       <div className="my-2 mx-2">
         <p>
           I'm an experienced software engineer who has been in the field for 38 years.  I've focused most of my career
-          on backend development managing, handling, and transforming data.  The past 22 years at Walt Disney World Parks
+          on backend development; managing, handling, and transforming data.  The past 22 years at Walt Disney World Parks
           and Resorts IT, I designed, implemented, and supported database applications focused on managing guest
           reservations and other linked guest data. The number of guests supported in the system grew from ~80 million
           to over 200 million guests during my tenure. A concise breakdown of that experience is provided in my resume
