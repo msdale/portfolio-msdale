@@ -80,6 +80,7 @@ function Projects(props) {
           <p>&nbsp;{project.type}&nbsp;
             <a href={project.gitRepo}>
               <img
+                className="my-project-link"
                 src={project.gitLogo}
                 alt="git logo"
               />
@@ -90,7 +91,7 @@ function Projects(props) {
               <img
                 src={project.image}
                 alt={project.accessibility}
-                className="img-thumbnail mx-1"
+                className="img-thumbnail mx-1 my-project-link"
               />
             </a>
           </div>

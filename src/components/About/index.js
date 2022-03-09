@@ -7,7 +7,7 @@ function About(props) {
   return (
     <>
     <section className="my-5">
-      <p id="text-thought">Let us run with endurance the race set before us...</p>
+      <p id="text-thought-about">Let us run with endurance the race set before us...</p>
       {/*<img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />*/}
       <h1 className="mx-2" id="about">About me</h1>
       <div className="my-2 mx-2">

@@ -19,10 +19,10 @@ function Footer() {
       <div className="flex-row center-content">
         {links.map((linkTo) => (
           <section>
-            <div id="profile-links">
+            <div>
               <a href={linkTo.linkProfile}>
                 <img
-                  id="my-profile"
+                  className="my-footer-link"
                   src={linkTo.linkLogo}
                   alt="link logo"
                 />
@@ -32,7 +32,7 @@ function Footer() {
         ))}
       </div>
       <div className="flex-row center-content">
-        <p id="text-thought">I forget what is in the past, and try as hard as I can to reach the goal before me...</p>
+        <p id="text-thought-footer">I forget what is in the past, and try as hard as I can to reach the goal before me...</p>
       </div>
     </>
   );

@@ -14,7 +14,7 @@ function Nav(props) {
     <header>
       <nav className="flex-row">
         <h1 className="flex-row vcenter">
-          <img id="my-profile" src={profileImage} alt="profile" />
+          <img id="my-header-pic" src={profileImage} alt="profile" />
             Mark Dale
         </h1>
         <ul className="flex-row center-content">

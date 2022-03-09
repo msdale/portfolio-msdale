@@ -142,6 +142,10 @@ button:hover {
   opacity: .8;
 }
 
+hover-link:hover {
+  opacity: .8;
+}
+
 button[disabled] {
   cursor: default;
   opacity: .8;
@@ -361,24 +365,46 @@ textarea {
   width: 100%;
 }
 
-#my-profile {
+#my-header-pic {
   object-fit: scale-down;
   width: 120px;
   height: 120px;
   margin: 20px;
 }
 
-#profile-links {
-  margin-bottom: 40px;
+.my-project-link {
+  opacity: .6;
 }
 
-#text-thought {
+.my-project-link:hover {
+  opacity: 1;
+}
+
+.my-footer-link {
+  object-fit: scale-down;
+  width: 120px;
+  height: 120px;
+  margin: 20px;
+  opacity: .6;
+}
+
+.my-footer-link:hover {
+  opacity: 1;
+}
+
+#text-thought-footer {
   color: #39a6b2;
   text-align: center;
   font-size: 1.5rem;
   padding: 20px;
 }
 
+#text-thought-about {
+  color: #39a6b2;
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 20px;
+}
 
 .vcenter {
   line-height: 160px;
