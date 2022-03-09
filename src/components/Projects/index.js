@@ -66,7 +66,7 @@ function Projects(props) {
       type: "Model-View-Controller",
       description: "A CMS style technical blog",
       image: image_5,
-      appLink: "https://msdale.github.io/tech-blog/",
+      appLink: "https://tech-blog-msdale.herokuapp.com/",
       gitLogo: gitLogo,
       gitRepo: "https://github.com/msdale/tech-blog",
       accessibility: "CMS technical blog"

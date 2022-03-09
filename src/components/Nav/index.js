@@ -4,7 +4,7 @@ import pdf from "../../assets/documents/markdale_2021.pdf";
 
 function Nav(props) {
   const {
-    currentPage,
+    //currentPage,
     handlePageChange
   } = props;
 
@@ -22,14 +22,15 @@ function Nav(props) {
             <button id="navAbout" onClick={() => handlePageChange('About')}>About</button>
           </li>
           <li className={`mx-2`}>
-            <button onClick={() => handlePageChange('Contact')}>Contact</button>
+            <button id="navContact" onClick={() => handlePageChange('Contact')}>Contact</button>
           </li>
           <li className={`mx-2`}>
-            <button onClick={() => handlePageChange('Projects')}>Projects</button>
+            <button id="navProjects" onClick={() => handlePageChange('Projects')}>Projects</button>
           </li>
-          <li>
-          {/*<a href={pdf} alt="Resume">Resume</a>*/}
-          <a id="navResume" href={pdf} target="_blank">Resume</a>
+          <li className={`mx-2`}>
+          {/*<a href={pdf} alt="Resume">Resume</a>
+            <button id="navResume2" onClick={() => handlePageChange('Resume')}>Resume</button>*/}
+            <a id="navResume" href={pdf} target="_blank">Resume</a>
           </li>
         </ul>
       </nav>

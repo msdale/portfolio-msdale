@@ -5,11 +5,12 @@ import pdf from "../../assets/documents/markdale_2021.pdf";
 function About(props) {
   
   return (
+    <>
     <section className="my-5">
       <p id="text-thought">Let us run with endurance the race set before us...</p>
       {/*<img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />*/}
-      <h1 id="about">About me</h1>
-      <div className="my-2">
+      <h1 className="mx-2" id="about">About me</h1>
+      <div className="my-2 mx-2">
         <p>
           I'm an experienced software engineer who has been in the field for 38 years.  I've focused most of my career
           on backend development managing, handling, and transforming data.  The past 22 years at Walt Disney World Parks
@@ -24,6 +25,7 @@ function About(props) {
         </p>
       </div>
     </section>
+    </>
   )
 }
 

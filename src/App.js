@@ -5,6 +5,7 @@ import Projects from './components/Projects';
 import ContactForm from './components/Contact';
 import Resume from './components/Resume';
 import Nav from './components/Nav';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -32,17 +33,7 @@ function App() {
     <div>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
       {pickPageTab()}
-      {/*<main>
-        {
-          aboutSelected ?
-            <About ></About>
-            : projectsSelected ?
-              <Projects></Projects>
-              : contactSelected ?
-                <ContactForm></ContactForm>
-                : <About></About>
-        }
-      </main>*/}
+      <Footer />
     </div>
   );
 }

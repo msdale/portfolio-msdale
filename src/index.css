@@ -310,21 +310,11 @@ textarea {
 	font-weight: 600;
 	margin-bottom: 30px;
 	padding: 10px 15px;	
+  font-family: 'Poiret One', cursive;
 }
 
-#navResume {
-	background: var(--primary);
-	border: 0;
-	border-radius: 5px;
-	color: #fff;
-	cursor: pointer;
-	font-size: 16px;
-	font-weight: 600;
-	margin-bottom: 30px;
-	padding: 10px 15px;	
-}
 
-a {
+/*a {
 	border-radius: 5px;
 	color: var(--primary);
 	font-weight: 600;
@@ -332,6 +322,30 @@ a {
 	margin-left: -2px;
 	margin-right: -2px;
 	
+}*/
+
+#navResume {
+  background: var(--dark);
+	border: 0;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 20px;
+	padding: 10px 15px;	
+  font-family: 'Poiret One', cursive;
+	/*background: var(--primary);
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 30px;
+	padding-bottom: 10px;	
+	padding-right: 15px;	
+	padding-left: 15px;	
+  font-family: 'Poiret One', cursive;*/
 }
 
 .navActive {
@@ -352,6 +366,10 @@ a {
   width: 120px;
   height: 120px;
   margin: 20px;
+}
+
+#profile-links {
+  margin-bottom: 40px;
 }
 
 #text-thought {
