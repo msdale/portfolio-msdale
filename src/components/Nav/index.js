@@ -30,7 +30,7 @@ function Nav(props) {
           <li className={`mx-2`}>
           {/*<a href={pdf} alt="Resume">Resume</a>
             <button id="navResume2" onClick={() => handlePageChange('Resume')}>Resume</button>*/}
-            <a id="navResume" href={pdf} target="_blank">Resume</a>
+            <a id="navResume" href={pdf} rel="noreferrer" target="_blank">Resume</a>
           </li>
         </ul>
       </nav>

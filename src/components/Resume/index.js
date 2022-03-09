@@ -9,7 +9,7 @@ function Resume() {
       </div>
     </section>*/
     <section>
-          <a href={pdf} alt="Resume"></a>
+          <a href={pdf} target="_blank" rel="noreferrer" alt="Resume">Resume</a>
   </section>
   )
 }
