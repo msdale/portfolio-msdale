@@ -78,7 +78,7 @@ function Projects(props) {
       {projectList.map((project) => (
         <section>
           <p>&nbsp;{project.type}&nbsp;
-            <a href={project.gitRepo}>
+            <a href={project.gitRepo} target="_blank" rel="noreferrer" alt="git Icon">
               <img
                 className="my-project-link"
                 src={project.gitLogo}
@@ -87,7 +87,7 @@ function Projects(props) {
             </a>
           </p>
           <div>
-            <a href={project.appLink}>
+            <a href={project.appLink} target="_blank" rel="noreferrer" alt="app image">
               <img
                 src={project.image}
                 alt={project.accessibility}

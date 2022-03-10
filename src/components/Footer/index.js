@@ -25,7 +25,7 @@ function Footer(props) {
         {links.map((linkTo) => (
           <section>
             <div>
-              <a href={linkTo.linkProfile}>
+              <a href={linkTo.linkProfile} target="_blank" rel="noreferrer" alt="Link Icon">
                 <img
                   className="my-footer-link"
                   src={linkTo.linkLogo}
