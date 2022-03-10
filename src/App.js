@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-//import './App.css';
 import About from './components/About';
 import Projects from './components/Projects';
 import ContactForm from './components/Contact';
