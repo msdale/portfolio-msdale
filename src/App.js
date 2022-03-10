@@ -7,11 +7,15 @@ import Resume from './components/Resume';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
 
-
 function App() {
-  const [currentPage, setCurrentPage] = useState('About');
+  // Start tab navigation where you left off in the session
+  let lastNavTab = sessionStorage.getItem('lastNavTab')
+  lastNavTab = lastNavTab ? lastNavTab : 'About'
+
+  const [currentPage, setCurrentPage] = useState(lastNavTab);
 
   const pickPageTab = () => {
+    sessionStorage.setItem('lastNavTab', currentPage);
     if (currentPage === 'About') {
       return <About />;
     }
@@ -24,16 +28,15 @@ function App() {
     if (currentPage === 'Resume') {
       return <Resume />;
     }
-  
   }
 
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
     <div>
-      <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
+      <Nav handlePageChange={handlePageChange} />
       {pickPageTab()}
-      <Footer />
+      <Footer currentPage={currentPage} />
     </div>
   );
 }

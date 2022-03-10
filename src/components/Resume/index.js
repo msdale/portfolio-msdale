@@ -3,14 +3,9 @@ import pdf from "../../assets/documents/markdale_2021.pdf";
 
 function Resume() {
   return (
-    /*<section className="my-5">
-      <div className="my-2">
-        <a href={pdf} alt="Resume"></a>
-      </div>
-    </section>*/
     <section>
-          <a href={pdf} target="_blank" rel="noreferrer" alt="Resume">Resume</a>
-  </section>
+      <a href={pdf} target="_blank" rel="noreferrer" alt="Resume">Resume</a>
+    </section>
   )
 }
 

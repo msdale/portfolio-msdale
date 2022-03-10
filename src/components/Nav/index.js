@@ -4,11 +4,8 @@ import pdf from "../../assets/documents/markdale_2021.pdf";
 
 function Nav(props) {
   const {
-    //currentPage,
     handlePageChange
   } = props;
-
-
 
   return (
     <header>
@@ -28,8 +25,6 @@ function Nav(props) {
             <button id="navProjects" onClick={() => handlePageChange('Projects')}>Projects</button>
           </li>
           <li className={`mx-2`}>
-          {/*<a href={pdf} alt="Resume">Resume</a>
-            <button id="navResume2" onClick={() => handlePageChange('Resume')}>Resume</button>*/}
             <a id="navResume" href={pdf} rel="noreferrer" target="_blank">Resume</a>
           </li>
         </ul>

@@ -2,7 +2,7 @@ import React from 'react';
 import gitLogo from "../../assets/images/github-11-64.png";
 import linkedinLogo from "../../assets/images/linkedin-5-64.png";
 
-function Footer() {
+function Footer(props) {
   const links = [
     {
       linkLogo: gitLogo,
@@ -13,6 +13,11 @@ function Footer() {
       linkProfile: "https://www.linkedin.com/in/mark-dale-29a456222/"
     },
   ];
+
+  let thoughtText;
+  if (props.currentPage === 'About') {
+    thoughtText = <p id="text-thought-footer">I forget what is in the past, and try as hard as I can to reach the goal before me...</p>;
+  }
 
   return (
     <>
@@ -32,7 +37,7 @@ function Footer() {
         ))}
       </div>
       <div className="flex-row center-content">
-        <p id="text-thought-footer">I forget what is in the past, and try as hard as I can to reach the goal before me...</p>
+        {thoughtText}
       </div>
     </>
   );
