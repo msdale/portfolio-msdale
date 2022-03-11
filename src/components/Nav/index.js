@@ -24,7 +24,7 @@ function Nav(props) {
           <li className={`mx-2`}>
             <button id="navProjects" onClick={() => handlePageChange('Projects')}>Projects</button>
           </li>
-          <li className={`mx-2`}>
+          <li id="forResume" className={`mx-2`}>
             <a id="navResume" href={pdf} rel="noreferrer" target="_blank">Resume</a>
           </li>
         </ul>

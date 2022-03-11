@@ -317,6 +317,28 @@ textarea {
   font-family: 'Poiret One', cursive;
 }
 
+#navResume {
+  background: var(--primary);
+	border: 0;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 15px;
+	font-weight: 600;
+  letter-spacing: 1px;
+	margin-bottom: 10px;
+	padding: 10px 15px 12px 15px;	
+  font-family: 'Poiret One', cursive;
+  text-decoration: none;
+  border-top: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+#forResume {
+  padding-top: 25px;
+}
+
 
 /*a {
 	border-radius: 5px;
@@ -328,7 +350,7 @@ textarea {
 	
 }*/
 
-#navResume {
+#navResumeX {
   background: var(--dark);
 	border: 0;
 	border-radius: 5px;
