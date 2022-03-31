@@ -8,6 +8,7 @@ import image_2 from "../../assets/images/work-day-scheduler.png";
 import image_3 from "../../assets/images/weather-dashboard.png";
 import image_4 from "../../assets/images/pricemart.png";
 import image_5 from "../../assets/images/tech-blog.png";
+import image_6 from "../../assets/images/sparkling-spaces.png";
 
 function Projects(props) {
   const projectList = [
@@ -70,6 +71,16 @@ function Projects(props) {
       gitLogo: gitLogo,
       gitRepo: "https://github.com/msdale/tech-blog",
       accessibility: "CMS technical blog"
+    },
+    {
+      name: "Sparkling Spaces",
+      type: "Interactive Full-Stack MERN",
+      description: "Cleaning service",
+      image: image_6,
+      appLink: "https://sparkling-spaces.herokuapp.com/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/sparkling-spaces",
+      accessibility: "UFO sightings"
     }
   ];
 
