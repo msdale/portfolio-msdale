@@ -18,6 +18,7 @@ as well providing an historical Resume that documents the last 20+ years of empl
   - [Usage for deployed Installation](#usage-for-deployed-installation)
   - [Usage for local Installation](#usage-for-local-installation)
   - [Questions and Contact Links](#questions-and-contact-links)
+  - [UCF Grades](#ucf-grades)
 
 ## Local Installation (only if executing on local server/pc)
 
@@ -56,5 +57,8 @@ The application must remain running in the terminal until your done with it, at 
 Any questions, please contact Mark Dale.
 
 My email address is: msdaledad@gmail.com  
-My github profile is https://github.com/msdale  
+My github profile is https://github.com/msdale
+
+## UCF Grades
+
 [UCF-Grades](./src/assets/documents/UCF-Bootcamp-Grades.pdf)
