@@ -51,7 +51,7 @@ http://localhost:3000
   
 The application must remain running in the terminal until your done with it, at which time you can terminate it with a CTRL-C keystroke.
 
-## Questions and Contack Links
+## Questions and Contact Links
 
 Any questions, please contact Mark Dale.
 
