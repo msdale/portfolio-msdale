@@ -17,7 +17,7 @@ as well providing an historical Resume that documents the last 20+ years of empl
   - [Local Installation (only if executing on local server/pc)](#local-installation-only-if-executing-on-local-serverpc)
   - [Usage for deployed Installation](#usage-for-deployed-installation)
   - [Usage for local Installation](#usage-for-local-installation)
-  - [Questions](#questions)
+  - [Questions](#questions-contact-links)
 
 ## Local Installation (only if executing on local server/pc)
 
@@ -51,7 +51,7 @@ http://localhost:3000
   
 The application must remain running in the terminal until your done with it, at which time you can terminate it with a CTRL-C keystroke.
 
-## Questions
+## Questions - Contack Links
 
 Any questions, please contact Mark Dale.
 
