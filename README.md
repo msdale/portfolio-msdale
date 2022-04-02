@@ -1,6 +1,6 @@
-# portfolio-msdale
+# UCF-Bootcamp Portfolio
 
-Personal employment portfolio.
+UCF-Bootcamp coding challenges and team projects assigned to grade learning performance.
 
 ## Description
 
