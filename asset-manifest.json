@@ -1,25 +1,35 @@
 {
   "files": {
     "main.css": "/portfolio-msdale/static/css/main.b4bcf676.css",
-    "main.js": "/portfolio-msdale/static/js/main.d9b7a431.js",
+    "main.js": "/portfolio-msdale/static/js/main.8bb6e87e.js",
     "static/js/787.8bd254a5.chunk.js": "/portfolio-msdale/static/js/787.8bd254a5.chunk.js",
+    "static/media/whats-up.png": "/portfolio-msdale/static/media/whats-up.ad295bdcc5aafcd2a16a.png",
+    "static/media/readme-generator.png": "/portfolio-msdale/static/media/readme-generator.1cbf83f26426c9b574e5.png",
     "static/media/sparkling-spaces.png": "/portfolio-msdale/static/media/sparkling-spaces.8b3585ea07daa6126600.png",
     "static/media/whats-out-there.png": "/portfolio-msdale/static/media/whats-out-there.deeda7edc6e47da4c1ee.png",
     "static/media/cover-image.jpg": "/portfolio-msdale/static/media/cover-image.7d77dcc8d9ac52f05938.jpg",
+    "static/media/ecommerce.png": "/portfolio-msdale/static/media/ecommerce.d08af9a5e1af0b7ca20a.png",
+    "static/media/regex-tutorial.png": "/portfolio-msdale/static/media/regex-tutorial.d67263ad96a1af5c3814.png",
     "static/media/Run-Buddy-pic.png": "/portfolio-msdale/static/media/Run-Buddy-pic.5a29a06db4978ad3aa22.png",
+    "static/media/employee-tracker.png": "/portfolio-msdale/static/media/employee-tracker.5ea96fe672e3ebae1898.png",
     "static/media/profile-pic.png": "/portfolio-msdale/static/media/profile-pic.ccc6cdb3a6cdd77aae9e.png",
     "static/media/tech-blog.png": "/portfolio-msdale/static/media/tech-blog.b5854ab1db7ca6c824c2.png",
     "static/media/markdale_2021.pdf": "/portfolio-msdale/static/media/markdale_2021.b91db4a9be4fb880ec38.pdf",
+    "static/media/team-profile-generator.png": "/portfolio-msdale/static/media/team-profile-generator.95b698e488c556457f17.png",
     "static/media/pricemart.png": "/portfolio-msdale/static/media/pricemart.9feb741f0cbe69e449e5.png",
+    "static/media/budget-tracker.png": "/portfolio-msdale/static/media/budget-tracker.437226ec423ff8b4178d.png",
     "static/media/weather-dashboard.png": "/portfolio-msdale/static/media/weather-dashboard.46f7618a76c300f262d1.png",
     "static/media/work-day-scheduler.png": "/portfolio-msdale/static/media/work-day-scheduler.8180b7f3601fe9fc36a1.png",
+    "static/media/code-quiz.png": "/portfolio-msdale/static/media/code-quiz.715c47d4c5f5bf8f6376.png",
+    "static/media/password-generator.png": "/portfolio-msdale/static/media/password-generator.f69a9dfa86f5ed71cd37.png",
+    "static/media/note-taker-screenshot.png": "/portfolio-msdale/static/media/note-taker-screenshot.356474814cd108330cdd.png",
     "index.html": "/portfolio-msdale/index.html",
     "main.b4bcf676.css.map": "/portfolio-msdale/static/css/main.b4bcf676.css.map",
-    "main.d9b7a431.js.map": "/portfolio-msdale/static/js/main.d9b7a431.js.map",
+    "main.8bb6e87e.js.map": "/portfolio-msdale/static/js/main.8bb6e87e.js.map",
     "787.8bd254a5.chunk.js.map": "/portfolio-msdale/static/js/787.8bd254a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4bcf676.css",
-    "static/js/main.d9b7a431.js"
+    "static/js/main.8bb6e87e.js"
   ]
 }
