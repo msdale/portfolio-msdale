@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-msdale/static/css/main.d705690c.css",
-    "main.js": "/portfolio-msdale/static/js/main.62106f97.js",
+    "main.css": "/portfolio-msdale/static/css/main.920eaf93.css",
+    "main.js": "/portfolio-msdale/static/js/main.2ffc9d4a.js",
     "static/js/787.8bd254a5.chunk.js": "/portfolio-msdale/static/js/787.8bd254a5.chunk.js",
     "static/media/whats-up.png": "/portfolio-msdale/static/media/whats-up.ad295bdcc5aafcd2a16a.png",
     "static/media/readme-generator.png": "/portfolio-msdale/static/media/readme-generator.1cbf83f26426c9b574e5.png",
@@ -24,12 +24,12 @@
     "static/media/password-generator.png": "/portfolio-msdale/static/media/password-generator.f69a9dfa86f5ed71cd37.png",
     "static/media/note-taker-screenshot.png": "/portfolio-msdale/static/media/note-taker-screenshot.356474814cd108330cdd.png",
     "index.html": "/portfolio-msdale/index.html",
-    "main.d705690c.css.map": "/portfolio-msdale/static/css/main.d705690c.css.map",
-    "main.62106f97.js.map": "/portfolio-msdale/static/js/main.62106f97.js.map",
+    "main.920eaf93.css.map": "/portfolio-msdale/static/css/main.920eaf93.css.map",
+    "main.2ffc9d4a.js.map": "/portfolio-msdale/static/js/main.2ffc9d4a.js.map",
     "787.8bd254a5.chunk.js.map": "/portfolio-msdale/static/js/787.8bd254a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d705690c.css",
-    "static/js/main.62106f97.js"
+    "static/css/main.920eaf93.css",
+    "static/js/main.2ffc9d4a.js"
   ]
 }
