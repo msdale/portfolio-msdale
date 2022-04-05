@@ -116,6 +116,15 @@ a {
   color: var(--dark);
 }
 
+#mailto-email {
+  color: white;
+}
+
+#mailto-email:hover {
+  background: var(--light);
+  color: var(--dark);
+}
+
 header {
   background: var(--dark);
 }

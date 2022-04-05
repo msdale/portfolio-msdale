@@ -34,8 +34,8 @@ function ContactForm() {
   return (
     <section>
       <h1 className="mx-2" data-testid="h1tag">Contact me</h1>
-      <p><br></br>&nbsp; Primary Email: msdaledad@gmail.com</p>
-      <p><br></br>&nbsp; Secondary Email: msdaleafo@yahoo.com</p>
+      <a id="mailto-email" href="mailto: msdaledad@gmail.com?subject=Portolio Contact"><br></br>&nbsp;&nbsp;msdaledad@gmail.com<br></br></a>
+      <a id="mailto-email" href="mailto: msdaleafo@yahoo.com?subject=Portolio Contact"><br></br>&nbsp;&nbsp;msdaleafo@yahoo.com<br></br></a>
       <p><br></br>&nbsp; Primary Phone: 352-223-7758</p>
       <p>&nbsp; Secondary Phone: 352-223-4190</p>
       {/*<form className="mx-2" id="contact-form" onSubmit={handleSubmit}>
