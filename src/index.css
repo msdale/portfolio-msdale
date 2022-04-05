@@ -39,7 +39,7 @@ body {
   background-position: center center;
   background-image: url("../src/assets/cover/cover-image.jpg");
   color: var(--light);
-  font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One', sans-serif;
 }
 
 
@@ -51,7 +51,7 @@ h4,
 h5,
 h6 {
   /*font-family: 'Roboto', sans-serif;*/
-  font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One', sans-serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
@@ -314,7 +314,7 @@ textarea {
 	font-weight: 600;
 	margin-bottom: 30px;
 	padding: 10px 15px;	
-  font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One', sans-serif;
 }
 
 #navResume {
@@ -328,7 +328,7 @@ textarea {
   letter-spacing: 1px;
 	margin-bottom: 10px;
 	padding: 10px 15px 12px 15px;	
-  font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One', sans-serif;
   text-decoration: none;
   border-top: 5px;
   outline: none;
@@ -360,7 +360,7 @@ textarea {
 	font-weight: 600;
 	margin-bottom: 20px;
 	padding: 10px 15px;	
-  font-family: 'Poiret One', cursive;
+  font-family: 'Poiret One', sans-serif;
 	/*background: var(--primary);
 	border-radius: 5px;
 	color: #fff;
@@ -371,7 +371,7 @@ textarea {
 	padding-bottom: 10px;	
 	padding-right: 15px;	
 	padding-left: 15px;	
-  font-family: 'Poiret One', cursive;*/
+  font-family: 'Poiret One', sans-serif;*/
 }
 
 .navActive {
