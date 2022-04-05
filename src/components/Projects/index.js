@@ -18,6 +18,7 @@ import image_12 from "../../assets/images/employee-tracker.png";
 import image_13 from "../../assets/images/ecommerce.png";
 import image_14 from "../../assets/images/regex-tutorial.png";
 import image_15 from "../../assets/images/whats-up.png";
+import image_16 from "../../assets/images/budget-tracker.png";
 
 function Projects(props) {
   const projectList = [
@@ -179,6 +180,16 @@ function Projects(props) {
       appLink: "https://github.com/msdale/whats-up/",
       gitLogo: gitLogo,
       gitRepo: "https://github.com/msdale/whats-up",
+      accessibility: "Social Network API"
+    },
+    {
+      name: "Budget Tracker",
+      type: "PWA (Progressive Web Application)",
+      description: "Budget Tracker",
+      image: image_16,
+      appLink: "https://budget-tracker-msdale.herokuapp.com/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/budget-tracker",
       accessibility: "Social Network API"
     },
   ];
