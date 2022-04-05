@@ -17,11 +17,11 @@ function About(props) {
           to over 200 million guests during my tenure. A concise breakdown of that experience is provided in my resume
           (<a style={{ color: "#fce138" }} href={pdf} target="_blank" rel="noreferrer" alt="Resume">View Resume</a>). 
           My latest technical pursuit has been acquiring a Full-Stack skill set so I can be more engaged in development
-          effecting both sides of the browser. The "Projects" button above reflects the training I completed while attending
-          the UCF (University of Central Floriday) Full-Stack coding boodcamp.</p>
-        <p> I'm hard-working, focused, and work well alone, yet I enjoy being part of,
-          and contributing to a well functioning team (who doesn't?). Perhaps I can be a part of yours. Thanks for visiting
-          my site, and I hope to hear from you.
+          affecting both sides of the browser. The "Projects" button above reflects the training I completed while attending
+          the UCF (University of Central Florida) Full-Stack coding bootcamp.</p>
+        <p>I'm results-oriented, focused, and work well on my own, yet I enjoy being part of,
+          and contributing to a team effort. Perhaps I can be a part of your team. Thanks for visiting
+          my site.
         </p>
       </div>
     </section>
