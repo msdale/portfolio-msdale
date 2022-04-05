@@ -9,6 +9,15 @@ import image_3 from "../../assets/images/weather-dashboard.png";
 import image_4 from "../../assets/images/pricemart.png";
 import image_5 from "../../assets/images/tech-blog.png";
 import image_6 from "../../assets/images/sparkling-spaces.png";
+import image_7 from "../../assets/images/password-generator.png";
+import image_8 from "../../assets/images/code-quiz.png";
+import image_9 from "../../assets/images/readme-generator.png";
+import image_10 from "../../assets/images/team-profile-generator.png";
+import image_11 from "../../assets/images/note-taker-screenshot.png";
+import image_12 from "../../assets/images/employee-tracker.png";
+import image_13 from "../../assets/images/ecommerce.png";
+import image_14 from "../../assets/images/regex-tutorial.png";
+import image_15 from "../../assets/images/whats-up.png";
 
 function Projects(props) {
   const projectList = [
@@ -81,7 +90,97 @@ function Projects(props) {
       gitLogo: gitLogo,
       gitRepo: "https://github.com/msdale/sparkling-spaces",
       accessibility: "UFO sightings"
-    }
+    },
+    {
+      name: "Password Generator",
+      type: "HTML/CSS/Javascript",
+      description: "Password Generator",
+      image: image_7,
+      appLink: "https://msdale.github.io/password-generator/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/password-generator",
+      accessibility: "Password Generator"
+    },
+    {
+      name: "Code Quiz",
+      type: "Web APIs",
+      description: "Code Quiz",
+      image: image_8,
+      appLink: "https://msdale.github.io/code-quiz/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/code-quiz",
+      accessibility: "Code Quiz"
+    },
+    {
+      name: "README Generator",
+      type: "Node JS",
+      description: "README Generator",
+      image: image_9,
+      appLink: "https://github.com/msdale/readme-generator/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/readme-generator",
+      accessibility: "README Generator"
+    },
+    {
+      name: "Team Profile Generator",
+      type: "OOP Development (Using classes)",
+      description: "Team Profile Generator",
+      image: image_10,
+      appLink: "https://github.com/msdale/team-profile-generator/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/team-profile-generator",
+      accessibility: "Team Profile Generator"
+    },
+    {
+      name: "Note Taker",
+      type: "Express JS",
+      description: "Note Taker",
+      image: image_11,
+      appLink: "https://note-taker-msdale.herokuapp.com/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/note-taker",
+      accessibility: "Note Taker"
+    },
+    {
+      name: "Employee Tracker",
+      type: "SQL",
+      description: "Employee Tracker",
+      image: image_12,
+      appLink: "https://github.com/msdale/employee-tracker/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/employee-tracker",
+      accessibility: "Employee Tracker"
+    },
+    {
+      name: "ECommerce",
+      type: "Object-Relational Mapping (ORM)",
+      description: "ECommerce",
+      image: image_13,
+      appLink: "https://github.com/msdale/e-commerce/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/e-commerce",
+      accessibility: "ECommerce"
+    },
+    {
+      name: "Regex Tutorial",
+      type: "Use and Understand Regex",
+      description: "User and Understand Regex",
+      image: image_14,
+      appLink: "https://gist.github.com/msdale/bbddb89fd71ac1065ef2f5715399d089/",
+      gitLogo: gitLogo,
+      gitRepo: "https://gist.github.com/msdale/bbddb89fd71ac1065ef2f5715399d089/",
+      accessibility: "Use and Understand Regex"
+    },
+    {
+      name: "Whats Up",
+      type: "NoSQL",
+      description: "Social Network API",
+      image: image_15,
+      appLink: "https://github.com/msdale/whats-up/",
+      gitLogo: gitLogo,
+      gitRepo: "https://github.com/msdale/whats-up",
+      accessibility: "Social Network API"
+    },
   ];
 
   return (
