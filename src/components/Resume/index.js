@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from "../../assets/documents/markdale_2021_v1a.pdf";
+import pdf from "../../assets/documents/markdale_2021_v1b.pdf";
 
 function Resume() {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
 import profileImage from "../../assets/profile/profile-pic.png";
-import pdf from "../../assets/documents/markdale_2021_v1a.pdf";
+import pdf from "../../assets/documents/markdale_2021_v1b.pdf";
 
 function Nav(props) {
   const {
