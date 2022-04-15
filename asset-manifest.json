@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-msdale/static/css/main.920eaf93.css",
-    "main.js": "/portfolio-msdale/static/js/main.1f84ece3.js",
+    "main.js": "/portfolio-msdale/static/js/main.21d0bc05.js",
     "static/js/787.5bbefa6d.chunk.js": "/portfolio-msdale/static/js/787.5bbefa6d.chunk.js",
     "static/media/whats-up.png": "/portfolio-msdale/static/media/whats-up.ad295bdcc5aafcd2a16a.png",
     "static/media/readme-generator.png": "/portfolio-msdale/static/media/readme-generator.1cbf83f26426c9b574e5.png",
@@ -25,11 +25,11 @@
     "static/media/note-taker-screenshot.png": "/portfolio-msdale/static/media/note-taker-screenshot.356474814cd108330cdd.png",
     "index.html": "/portfolio-msdale/index.html",
     "main.920eaf93.css.map": "/portfolio-msdale/static/css/main.920eaf93.css.map",
-    "main.1f84ece3.js.map": "/portfolio-msdale/static/js/main.1f84ece3.js.map",
+    "main.21d0bc05.js.map": "/portfolio-msdale/static/js/main.21d0bc05.js.map",
     "787.5bbefa6d.chunk.js.map": "/portfolio-msdale/static/js/787.5bbefa6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.920eaf93.css",
-    "static/js/main.1f84ece3.js"
+    "static/js/main.21d0bc05.js"
   ]
 }
