@@ -16,7 +16,7 @@ function Footer(props) {
 
   let thoughtText;
   if (props.currentPage === 'About') {
-    thoughtText = <p id="text-thought-footer">I forget what is in the past, and try as hard as I can to reach the goal before me...</p>;
+    thoughtText = <p id="text-thought-footer">Press on to reach the goal</p>;
   }
 
   return (
