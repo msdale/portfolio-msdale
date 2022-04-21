@@ -7,7 +7,7 @@ UCF-Bootcamp coding challenges and team projects assigned to grade learning perf
 A React application that lists a set of coding projects collectively exhibiting the Full-Stack developer skillset,
 as well providing an historical Resume that documents the last 20+ years of employment experience.   
 
-![screenshot](./src/assets/images/screenshot.png)
+![screenshot](./src/assets/images/screenshot-edu-portfolio.png)
 
 ## Table Of Contents
 
